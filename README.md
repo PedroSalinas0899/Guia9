@@ -1,6 +1,6 @@
 Guía 9: Métodos de búsqueda - Tablas Hash 
 
-El ejercicio de la guía consistía en crear un programa el cual fuera capaz de ingresar cierta cantidad de números (en este caso 20), dentro de un arreglo utilizando la lógica de una tabla hash.  
+El ejercicio de la guía consistía en crear un programa el cual fuera capaz de ingresar cierta cantidad de números (en este caso 20), dentro de un arreglo utilizando la lógica de una tabla hash y luego ser capaz de buscar estos mismos dentro del arreglo.  
 
 Se utilizo como función hash, el ingresar datos por División/Modulo y al detectar colisiones el programa debe ser capaz de utilizar 4 métodos para poder solucionarlas: 
 

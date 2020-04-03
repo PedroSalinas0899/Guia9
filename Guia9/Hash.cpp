@@ -3,7 +3,7 @@
 #include "Hash.h"
 
 using namespace std;
-
+//Metodos de la funcion "Hash"
 int Hash::hash(int dato){
     int valor_hash = (dato%19) + 1;
     
